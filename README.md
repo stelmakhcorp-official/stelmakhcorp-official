@@ -1,4 +1,4 @@
-# Stelmakh© Corp™ — Corporate Business Architecture for PostgreSQL
+# Stelmakh© Corp™ — Corporate Business Architecture for SQL
 
 Enterprise-grade data architecture for ERP, CRM, HRM, FinTech and GovTech systems.
 
