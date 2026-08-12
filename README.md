@@ -9,4 +9,4 @@ Nikolai Stelmakh — Brand Manager & Owner
 STELMAKH_CORP — Enterprise Business Core for SQL
 
 ## Contact
-Email: StelmakhCorp@gmail.com
+Email: stelmakhcorp@gmail.com
